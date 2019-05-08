@@ -1,4 +1,4 @@
-# Titanic-Survival-Analysis-using-R
+#Survival-Analysis-using-R
 
 
 Two Approach for survival analysis both using R
